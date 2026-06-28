@@ -1,0 +1,6 @@
+{
+  "name": "Infinity CV & Docs",
+  "description": "Premium CV, Bio-data, Invoice & Government forms creator with drag & drop layer editor, offline templates, PDF and Image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
